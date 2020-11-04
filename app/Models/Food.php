@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Storage;
 
 class Food extends Model
 {
+
     use HasFactory, SoftDeletes;
 
     protected $fillable = [

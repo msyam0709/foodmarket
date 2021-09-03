@@ -7,6 +7,7 @@ Install :
 6. Run composer install
 7. Run php artisan key:generate
 8. Run php artisan migrate
-9. Run php artisan serve
-10. Sekarang project laravel bisa diakses melalui localhost:8000
-11. Login dengan user --> admin@admin.com, password --> password
+9. Run php artisan db:seed
+10. Run php artisan serve
+11. Sekarang project laravel bisa diakses melalui localhost:8000
+12. Login dengan user --> admin@admin.com, password --> password
